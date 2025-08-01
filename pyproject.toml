@@ -1,0 +1,5 @@
+[project]
+name = "dreamsdk"
+version = "0.1.0"
+description = "🌀 DreamSDK — The ready-to-use environment for Dreamcast development designed for Microsoft Windows."
+requires-python = ">=3.10"
